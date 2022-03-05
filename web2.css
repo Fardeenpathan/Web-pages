@@ -1,0 +1,343 @@
+*{
+  margin:0;
+  padding:0;
+}
+body{
+    margin:0;
+    padding:0;
+    background-color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(14, 14, 241);
+}
+
+nav{
+    height:80px;
+    width:98.7%;
+    background-color:#fff;
+    margin: 15px 15px 0px 10px;
+    border-radius: 5px;
+    
+}
+.logo{
+    position: absolute;
+    margin: 25px;
+    color: black;
+}
+.navbar{
+    display:flex;
+    float:left;
+    margin-left:38%;
+    margin-top:2%;
+   
+}
+.navbar li{
+    margin:0px 20px 0px 20px;
+    display:inline;
+    list-style:none; 
+    text-decoration: none;
+    
+}
+
+.search{
+    
+    width:20%;
+   float:left;
+   margin-left: 80%;
+   margin-top: 2%;
+   position: absolute;
+   
+
+}
+
+.main{
+    height: 175.9vh;
+    display: flex;
+    margin:10px;
+    
+}
+       
+        /* inner1 */
+
+.inner1{
+    height: 81%;
+    width: 70vw;
+    float: left;
+    background-color: #fff;
+    position: relative;
+    
+}
+.image img{
+    margin:10px;
+    height:40vh;
+    width:67vw;
+
+}
+.word{
+    margin-left: 10px;
+}
+
+.icon1 img{
+    margin-top:.2%;
+    padding:5px;
+    height:12vh;
+    width:5vw;
+    border-radius: 200px;
+   
+
+}
+.choco{
+    margin-left: 10px;
+    height:14vh;
+    width:66.9vw;
+    background-color: lightblue;
+    position: relative;
+}
+.choco .chocoword {
+    float:right;
+    margin-right: 668px;
+    margin-top: 8px;
+
+}
+.icon2 img{
+    margin-left: .7%;
+    margin-top:.8%;
+    height:12vh;
+    width:5vw;
+    border-radius: 200px;
+    float:left;
+}
+.girl{
+
+    margin-top:10px;
+    margin-left: 10px;
+    height:14vh;
+    width:66.9vw; 
+    background-color: lightblue;
+    /* position: absolute; */
+}
+.girlword{
+    
+    position: relative;
+    float:left;
+    margin-left: 2%;
+    margin-top: .7%;
+   
+}
+
+.icon3 img{
+    margin-top:.2%;
+    height:12vh;
+    width:5vw;
+    border-radius: 200px;
+    float:left;
+    margin-left: .7%;
+}
+.dog{
+    margin-top:10px;
+    margin-left: 10px;
+    height:14vh;
+    width:66.9vw;
+    background-color: lightblue;
+   
+}
+
+.dogword{
+    position: relative;
+    float:left;
+    margin-left: 2%;
+    margin-top: .7%;
+    
+}
+
+
+.event{
+    margin-top: 2%;
+    margin-left: 15px;
+    
+}
+        /* card start */
+
+.card{
+    margin:10px;
+    height:41.8vh;
+    width:66vw;
+    margin-left: 10px;  
+    display:flex; 
+}
+.card1{
+    height:40vh;
+    width:17.2vw;
+    margin-left:100px;
+    margin-top:5px;
+    background-color: lightblue;
+    border-radius:5px;
+}
+
+.card2{
+    height:40vh;
+    width:17.2vw;
+    margin-left:15px;
+    margin-top:5px;
+    background-color: lightblue;
+    border-radius:5px;
+}
+
+.card3{
+    height:40vh;
+    width:17.2vw;
+    margin-left:15px;
+    margin-top:5px;
+    background-color: lightblue;
+    border-radius:5px;
+}
+
+.image1 img,.image2 img,.image3 img{
+    width:34vh;
+    margin-top: 10px;
+    height:15vh;
+    margin-left: 10px;
+}
+.cardword1,.cardword2,.cardword3{
+    height:20px;
+    width:30.5vh;
+    margin:3.4%;
+}
+
+      /* card end */
+
+           /* inner1 end */
+
+
+          /* inner 2 start */
+.inner2{
+  margin:10px 15px 0px 5px;
+  float: right;
+  height: 97.2%;
+  width: 30vw;
+  margin:0px 0px 0px 10px;
+  background-color: #fff;
+}
+
+.palette{
+   margin-top:10%;
+   margin-left:5%;
+}
+.colorpalette{
+    margin-top:8%;
+    margin-left:5%;
+    width:90%;
+    height:40px;
+    display:flex;
+}
+.colorpalette1{
+    height:35px;
+    width:15.5%;
+    margin-right: 3px;
+    background-color: rgb(55, 82, 82);
+
+}
+.colorpalette2{
+    height:35px;
+    width:15.5%;
+    margin-right: 3px;
+    background-color: rgb(63, 119, 119);
+
+}
+.colorpalette3{
+    height:35px;
+    width:15.5%;
+    margin-right: 3px;
+    background-color: rgb(64, 163, 163);
+
+}
+.colorpalette4{
+    height:35px;
+    width:15.5%;
+    margin-right: 3px;
+    background-color: rgb(35, 202, 202);
+}
+.colorpalette5{
+    margin-bottom:10px;
+    height:35px;
+    width:15.5%;
+    margin-right: 3px;
+    background-color:rgb(13, 240, 240);  
+
+}
+.links{
+    margin-top:13%;
+    margin-left: 5%;
+    height:152px;
+    
+}
+.innerlink{
+    height: 95px;
+    
+
+}
+.innerlink p{
+    margin-top: 10px;
+}
+.topusers{
+    margin-left: 5%;
+    margin-top:14%;
+    
+}
+.user{
+    margin-left: 5%;
+    margin-top:4%;
+    height:205px;
+}
+.kimmo,.olivia,.goofy{
+    margin-top:1%;
+    height:60px;
+    background-color: lightblue;
+}
+.oliviaimg img,.kimoimg img,.goofyimg img{
+    height:7vh;
+    width: 3vw;
+    border-radius:220px;
+    margin-top: 5px;
+    margin-left: 4px;
+}
+
+.kimmoword,.goofyword,.oliviaword{
+    position:relative;
+    margin-left:60px;
+    bottom:41px;
+    color:rgb(14, 14, 241);
+}
+
+.info{
+    margin-top: 8%;
+    margin-left: 5%;
+}
+.infoword{
+    margin-top:4%;
+    height:205px;
+    margin-left:5%;
+    margin-right:23px;
+    text-justify: inter-word;
+}
+.infobtn{
+    background-color: lightblue;
+    margin-top:15px ;
+    height:25px;
+    width:70px;
+}
+.store{
+    margin-top: 5%;
+    margin-left: 5%;
+}
+.book{
+    margin:20px;
+    height:27.5vh;
+    
+    
+}
+.book img{
+    height:27.5vh;
+    width:100%;
+    
+    
+}
