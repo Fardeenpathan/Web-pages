@@ -1,0 +1,110 @@
+*{
+    padding:0;
+    margin:0;
+}
+    body{
+        background-color: rgb(36, 33, 33);
+    }
+           
+          
+
+            /* main1 start */
+
+.mainscroll{
+    margin:120px 0px 0px 550px;
+    height:62.7vh;
+    width:25%;
+    display:flex;
+    transform:rotate(-45deg);
+    background-color: rgb(36, 33, 33);
+    
+}
+
+.scroll1{
+    height:41vh;
+    width:8vw;
+    
+}
+
+.box1{
+    border:2px solid #fff;
+    height:20vh;
+    width:100wh;
+    position: relative;
+    
+}
+.box1 img{
+    height:100%;
+    width:100%;
+    position: absolute;
+ 
+}
+
+.box2{
+    margin-top:3px;
+    border:2px solid #fff;
+    height:20vh;
+    width:100wh;
+    position: relative;
+    
+}
+.box2 img{
+    height:100%;
+    width:100%;
+    position: absolute;
+ 
+} 
+
+
+.scroll2{
+    margin:152px 0px 0px 3px;
+    height:41vh;
+    width:8vw; 
+    
+}
+ 
+
+ .box3{
+    border:2px solid #fff;
+    height:20vh;
+    width:100wh;
+    position: relative;
+    
+}
+.box3 img{
+    height:100%;
+    width:100%;
+    position: absolute;
+ 
+}
+
+.box4{
+    margin-top:3px;
+    border:2px solid #fff;
+    height:20vh;
+    width:100wh;
+    position: relative;
+    
+}
+.box4 img{
+    height:100%;
+    width:100%;
+    position: absolute;
+ 
+}
+.scroll3{
+    margin:304px 0px 0px 3px;
+    height:20vh;
+    width:8vw;
+    position: relative;
+    
+}
+.scroll3 img{
+    height:100%;
+    width:100%;
+    position: absolute;
+    border:2px solid #fff;
+ 
+}  
+
+               /* main1 end   */
