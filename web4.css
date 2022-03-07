@@ -1,0 +1,161 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+   
+    margin:0;
+    padding:0;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.pagemain{
+    /* border:2px solid black; */
+    height:99.5vh;
+    width:100wh;
+    
+}
+
+             /*  head start */
+.head{
+    width:100wh;
+    height:23vh;
+    border:2px solid #000080;
+    background-color:#000080;
+   
+}
+.awesome{
+    margin-top:1%;
+    text-align: center;
+    font-size: 24px;
+    color:#fff;
+}
+.app{
+    margin-top:20px;
+    text-align: center;
+    font-size: 14px;
+    color:#fff;
+}
+
+.btn1{
+    margin-top:15px;
+    text-align: center;
+    
+}
+.btn1 button{
+    background-color: #343494;
+    color:#fff;
+}
+
+              /*  head end */
+
+              /* main start */
+.main{
+    height:32.5vh;
+    display:flex;
+}
+
+.location1{
+    height:28vh;
+    width:18vw;
+    margin-top:10px;
+    margin-left: 50px;
+    position: relative;
+}
+.icon1{
+    margin-left:14%;
+    margin-top:2%;
+    height:3vh;
+    width:8vw;
+    position:absolute;
+}
+.icon1word{
+    margin-top:63%;
+    margin-left:25px ;
+
+}
+
+.location2{
+    height:28vh;
+    width:18vw;
+    margin-top:10px;
+    margin-left: 330px;
+
+    position: relative;
+}
+.icon2{
+    margin-left:14%;
+    margin-top:2%;
+    height:3vh;
+    width:8vw;
+    position:absolute;
+}
+.icon2word{
+    margin-top:63%;
+    margin-left:25px ;
+
+}
+  
+.location3{
+    height:28vh;
+    width:18vw;
+    margin-top:10px;
+    margin-left: 290px;
+    position: relative;
+}
+.icon3{
+    margin-left:14%;
+    margin-top:2%;
+    height:3vh;
+    width:8vw;
+    position:absolute;
+}
+.icon3word{
+    margin-top:63%;
+    margin-left:25px ;
+
+}
+                /* main end */
+
+                /* footer start */
+.footer1{
+    border:1px solid green;
+    height:21vh;
+    background-color: green;
+}
+.great{
+    height: 5vh;
+    margin-top: 2.1%;
+    text-align:center;
+    color:#fff;
+}
+.satisfied{
+    margin-top:6px;
+    height:4vh;
+    text-align: center;
+    color:#fff;
+}
+
+.footer2{
+    border:1px solid black;
+    margin-top:0;
+    height:22vh;
+    background-color: #000000;
+} 
+
+.home{
+    margin-top:28px;
+    text-align: center;
+    height:4vh;
+    font-size: 20px;
+    color:#fff;
+}
+
+.copyright{
+    margin-top:10px;
+    text-align: center;
+    height:4vh;
+    font-size: 22px;
+    color:#fff;
+}
+                 /* footer end */
